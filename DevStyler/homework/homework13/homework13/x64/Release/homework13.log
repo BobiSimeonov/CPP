@@ -1,0 +1,11 @@
+﻿  BookServices.cpp
+C:\Users\boris\OneDrive\Desktop\GitHub\DevStylerProjects\homework\homework13\homework13\BookServices.cpp(43,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  book.cpp
+  homework13.cpp
+  Generating code
+C:\Users\boris\OneDrive\Desktop\GitHub\DevStylerProjects\homework\homework13\homework13\book.cpp(42): warning C4715: 'Book::get_price': not all control paths return a value
+  3 of 193 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  homework13.vcxproj -> C:\Users\boris\OneDrive\Desktop\GitHub\DevStylerProjects\homework\homework13\x64\Release\homework13.exe

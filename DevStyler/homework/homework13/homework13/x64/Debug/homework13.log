@@ -1,0 +1,7 @@
+﻿  book.cpp
+C:\Users\boris\OneDrive\Desktop\GitHub\DevStylerProjects\homework\homework13\homework13\book.h(16,12): error C2535: 'std::string Book::get_author(void)': member function already defined or declared
+C:\Users\boris\OneDrive\Desktop\GitHub\DevStylerProjects\homework\homework13\homework13\book.h(12,12): message : see declaration of 'Book::get_author'
+  homework13.cpp
+C:\Users\boris\OneDrive\Desktop\GitHub\DevStylerProjects\homework\homework13\homework13\Book.h(16,12): error C2535: 'std::string Book::get_author(void)': member function already defined or declared
+C:\Users\boris\OneDrive\Desktop\GitHub\DevStylerProjects\homework\homework13\homework13\Book.h(12,12): message : see declaration of 'Book::get_author'
+  Generating Code...
